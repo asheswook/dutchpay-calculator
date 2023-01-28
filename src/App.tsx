@@ -62,7 +62,8 @@ export const App = () => {
             <Card>
               <CardHeader>
                 <Heading size='md'>더치페이 계산기</Heading>
-                <Text pt='2' fontSize='sm'>한 명만 결제했을 때뿐만 아니라, 다수가 한 번에 결제했을 경우에도 계산할 수 있습니다.</Text>
+                <Text pt='2' fontSize='sm'>웹 더치페이 (각자내기, N빵) 계산기입니다. 한 명만 결제했을 때뿐만 아니라, 다수가 한 번에 결제했을 경우에도 계산할 수 있습니다.</Text>
+                <Text fontSize={'sm'} as='samp'>아이폰/안드로이드에서 '홈 화면에 추가' 혹은 '현재 페이지 추가' 버튼을 누르면 휴대폰에 더치페이 계산기 앱을 설치할 수 있습니다.</Text>
               </CardHeader>
               <CardBody>
                 <Stack divider={<StackDivider />} spacing='4'>
