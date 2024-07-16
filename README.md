@@ -1,1 +1,1 @@
-[This website is being published by Cloudflare Pages.](https://dutchpay.jwlee.xyz)
+[This website is being published by Cloudflare Pages.](https://dutchpay-calculator.pages.dev)
